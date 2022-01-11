@@ -1,5 +1,20 @@
 # 08-ansible-02-playbook
 
+## Параметры
+
+java_oracle_jdk_package - пакет Java
+
+Java java_jdk_version - версия Java
+
+elastic_home - каталог установки Elasticsearch
+
+elastic_version - версия Elasticsearch
+
+kibana_version - версия Kibana
+
+kibana_home - каталог установки Kibana
+
+
 ## Java
 
 установка переменной java_home
