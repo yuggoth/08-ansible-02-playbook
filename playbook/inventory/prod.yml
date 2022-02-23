@@ -3,3 +3,7 @@ elasticsearch:
   hosts:
     centos:
        ansible_connection: docker
+kibana:
+  hosts:
+    centos1:
+       ansible_connection: docker
